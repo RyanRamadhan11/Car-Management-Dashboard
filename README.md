@@ -1,7 +1,7 @@
-# ERD 
-![dbdiagram](/uploads/a404961f0e6a4c6bf3633860e125b784/dbdiagram.png)
 
 # Car Management Dashboard
+
+# ERD 
 ![alt text](https://github.com/bayuik/car-management-dashboard/blob/main/ERD/ERD.png)
 
 # Client
