@@ -2,7 +2,7 @@
 # Car Management Dashboard
 
 # ERD 
-![alt text](https://github.com/bayuik/car-management-dashboard/blob/main/ERD/ERD.png)
+![alt text](https://github.com/RyanRamadhan11/Car-Management-Dashboard/ERD/ERD.png)
 
 # Client
 1. Halaman Index (GET) = http://localhost/
